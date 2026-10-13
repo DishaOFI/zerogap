@@ -1,0 +1,54 @@
+﻿Operational Governance & Control Policy
+Management controls for ownership, deadlines, escalations, and continuous improvement across the Zero-Gap process — NordCare Pflegekasse, Long-Term Care Claims Operations
+1. Purpose
+This policy defines the management controls that govern the end-to-end long-term care application process at NordCare Pflegekasse, covering ownership, deadline compliance, escalation handling, and continuous improvement across the completeness-check, deadline-management, case-handover, and objection-handling procedures.
+2. Governance Objectives
+Ensure clear, single-point accountability for every case at every process stage.
+Maintain compliance with statutory commissioning and decision deadlines.
+Detect and escalate at-risk or non-compliant cases before statutory consequences are triggered.
+Provide management visibility into process performance through a consistent, agreed KPI set.
+Drive continuous improvement by identifying and addressing recurring root causes of delay or rework.
+3. Proposed KPI Set
+KPI
+Definition
+Target / illustrative threshold
+% applications with complete order info on first check
+Share of applications where the Zero-Gap Agent's first completeness check finds all mandatory order information present, with no missing-information request required.
+Illustrative: 85%
+Average time to issue missing-information request
+Average elapsed time from confirmed identification of a completeness gap to dispatch of the missing-information request to the applicant.
+Illustrative: 1 working day
+% assessment orders transmitted within 3 working days
+Share of cases where the assessment order is transmitted to the Medical Service within the statutory 3-working-day commissioning window.
+Illustrative: 98%
+% decisions issued within applicable deadline
+Share of cases where the written care decision notice is issued within the applicable deadline type (5 / 10 / 25 working days), accounting for any valid pause.
+Illustrative: 95%
+Count / value of €70-per-week penalty payments
+Number of cases triggering the statutory penalty for a missed decision deadline, and the total value paid, per reporting period.
+Illustrative: tracked, target trend downward
+Repeat-request rate
+Share of cases requiring more than one missing-information request before the order information is judged complete.
+Illustrative: below 10%
+Targets shown are illustrative thresholds for demonstration purposes only and have not been validated against NordCare's actual operating performance or agreed management targets.
+4. Control Ownership
+Case Handler (Sachspezialist für Pflege): owns case-level control execution, including completeness checks, deadline monitoring, and handover discipline for assigned cases.
+Zero-Gap Agent: executes the automated completeness check and surfaces deadline-risk flags for Case Handler and Team Lead review.
+Decision Intelligence Agent: executes the Gutachten plausibility check and drafts the benefit-entitlement determination for Case Handler review.
+Team Lead: owns operational escalation handling and day-to-day performance monitoring across a team of cases.
+Process Owner: owns the overall control framework, KPI reporting, penalty tracking, and approval of any change to the process or its controls.
+5. Issue & Improvement Management
+Identify the issue through KPI monitoring, escalation records, penalty triggers, or direct case-handler feedback.
+Log the issue with the affected case(s), process stage, and observed impact.
+Conduct root-cause analysis, distinguishing one-off case errors from systemic process, data, or agent-performance causes.
+Define and assign a corrective action, with an owner and target completion date.
+Implement the corrective action and verify its effect against the relevant KPI over the following reporting period.
+Record the resolved issue and its root cause in the governance log for trend analysis.
+6. Records & Evidence
+Case-level logs of completeness checks, deadline clock events, handovers, and objection outcomes.
+Monthly KPI reporting pack, including penalty payment tracking.
+Escalation records with trigger, action taken, and owner.
+Issue and improvement log with root causes and corrective actions.
+7. Policy Governance
+This policy, and the KPI targets and control ownership it describes, are illustrative and fictitious, prepared for internal demonstration purposes as part of a consulting engagement. They do not represent an approved operational policy and must be reviewed and approved by a designated Process Owner, with input from Legal and Compliance, before any operational use.
+Illustrative / fictitious document prepared for internal demonstration purposes. NordCare Pflegekasse is a fictitious insurer. Not an approved operational policy.

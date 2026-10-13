@@ -1,0 +1,9 @@
+.venv/
+.git/
+.env
+secrets/
+data/zerogap.sqlite
+data/outbox/
+__pycache__/
+**/__pycache__/
+tests/

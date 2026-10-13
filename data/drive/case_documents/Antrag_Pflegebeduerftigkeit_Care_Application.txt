@@ -1,0 +1,28 @@
+﻿NordCare Pflegekasse   |   Long-Term Care Claims Operations   |   Fictitious insurer — demonstration use only
+Antrag auf Feststellung oder Änderung der Pflegebedürftigkeit
+Application for Determination or Change of Long-Term Care Need
+Applicant name
+Klara Hoffmann
+Date of birth
+04.03.1958
+Address
+Musterstraße 12, 28195 Bremen
+NordCare member number
+NC-4471182
+Case reference (assigned on receipt)
+NC-2026-081345
+Type of application
+Erstantrag (initial application)
+Authorized representative (if any)
+Peter Hoffmann (son), Musterstraße 12, 28195 Bremen
+Preferred contact
+Phone: 0421 55 XX XX  |  Email: k.hoffmann@example-mail.de
+Date submitted
+15 September 2026
+Signature
+K. Hoffmann (signed, original on file)
+Reason for Application
+I am applying for an assessment of my need for long-term care due to increasing difficulty managing daily activities independently following a decline in mobility over the past several months.
+Declaration
+I confirm that the information provided is accurate to the best of my knowledge and consent to NordCare Pflegekasse forwarding the necessary information to the Medical Service (Medizinischer Dienst) for the purpose of this assessment.
+Illustrative / fictitious document prepared for internal demonstration purposes. NordCare Pflegekasse, all names, case numbers and figures are fictional. Not a real record.

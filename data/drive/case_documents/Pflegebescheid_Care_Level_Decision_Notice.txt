@@ -1,0 +1,24 @@
+﻿NordCare Pflegekasse   |   Long-Term Care Claims Operations   |   Fictitious insurer — demonstration use only
+Bescheid über die Feststellung der Pflegebedürftigkeit
+Care-Level Decision Notice
+Case reference
+NC-2026-081345
+Applicant
+Klara Hoffmann
+Application received
+15 September 2026
+Decision date
+9 October 2026
+Decision
+Pflegegrad 2 (care level 2) is granted, effective 15 September 2026
+Begründung (Reasoning)
+Based on the assessment report issued by the Medical Service, a weighted total score of 47.5 points was determined across the six modules of the statutory assessment instrument (Begutachtungsinstrument), corresponding to Pflegegrad 2 in accordance with § 15 SGB XI. The result of the assessment report is enclosed with this notice unless you have objected to its transmission.
+Your Right to Object
+If you disagree with this decision, you may submit a written objection (Widerspruch) within the statutory period from the date this notice is deemed received. Please quote the case reference above in any correspondence.
+Legal Basis
+§ 18c Abs. 1 SGB XI — written decision within the statutory deadline
+§ 18c Abs. 2 SGB XI — transparent presentation of the assessment result
+§ 15 SGB XI — determination of the Pflegegrad via the assessment instrument
+§ 35 SGB X — statement of reasons for administrative decisions
+§ 37 SGB X — this notice is deemed received on the fourth day after dispatch
+Illustrative / fictitious document prepared for internal demonstration purposes. NordCare Pflegekasse, all names, case numbers and figures are fictional. Not a real record.

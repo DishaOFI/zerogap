@@ -1,0 +1,67 @@
+﻿Deadline & Escalation Procedure
+Managing the statutory commissioning and decision clocks for long-term care applications — NordCare Pflegekasse, Long-Term Care Claims Operations
+1. Purpose
+This procedure defines how NordCare Pflegekasse determines, tracks, pauses, and escalates the statutory deadlines that apply to long-term care applications, from application receipt through to the written care-level decision.
+2. Scope
+Applies to every application for determination or change of long-term care need from the point of receipt to dispatch of the written decision (Bescheid).
+Covers deadline-type determination, the 3-working-day Medical Service commissioning window, pause/resume handling, and escalation when a deadline is at risk or missed.
+3. Deadline Types (Fristtyp)
+Deadline type
+Trigger condition
+Legal basis
+5 working days
+Applicant is currently in hospital or an inpatient rehabilitation facility.
+§ 18a Abs. 5 SGB XI — assessment must be completed by the 5th working day after application receipt.
+10 working days
+Applicant is in a home environment (not receiving palliative care) and caregiver leave (Pflegezeit / Familienpflegezeit) has been announced or agreed with the employer.
+§ 18a Abs. 6 SGB XI — assessment must be completed within 10 working days of application receipt.
+25 working days (standard)
+All other cases; the default deadline type unless an expedited trigger applies.
+§ 18c Abs. 1 Satz 1 SGB XI — standard written decision deadline.
+Deadline type is determined at intake based on the applicant's situation as stated in the application; it does not depend on whether the order information is complete.
+4. Clock Start, Pause, and Resume Rules
+Both the 3-working-day commissioning clock and the applicable decision clock (5 / 10 / 25 working days) start on the date the application is received, regardless of completeness.
+The insurer must commission the Medical Service within 3 working days of receipt using a secure electronic channel, based on the mandatory order information available at that point (see the Completeness Check & Missing-Information Work Instruction).
+If mandatory order information is missing, the decision clock is paused only from the day the applicant receives the missing-information request — not from the day the gap was identified, and not automatically.
+If the request is delayed after the gap is confirmed, the days between confirmation and dispatch still count against the decision deadline.
+The decision clock resumes on the day the requested information is received back at NordCare Pflegekasse.
+Log clock-start, pause-start, pause-end, and clock-resume dates in the case file for every application.
+5. Escalation Triggers and Levels
+Level
+Trigger
+Action / owner
+Level 1 — Case Handler
+Case approaching 70% of the applicable decision deadline with no missing-information request yet issued.
+Case Handler reviews and either progresses the case or issues a missing-information request without delay.
+Level 2 — Team Lead
+Mandatory 3-working-day commissioning window is at risk, or applicant has not responded to a missing-information request within the locally agreed follow-up period.
+Team Lead reviews case status, confirms whether a further request or direct outreach is warranted, and reassigns capacity if needed.
+Level 3 — Process Owner
+Standard 25-working-day (or shortened) decision deadline has been missed, triggering the statutory penalty; or a recurring pattern of missed deadlines is identified.
+Process Owner logs the penalty trigger, confirms root cause, and reports the case in the governance review.
+6. Escalation Record — Minimum Data
+Case reference and applicant identification
+Deadline type and applicable decision date
+Date of application receipt, and pause/resume dates if applicable
+Current process step and case handler
+Reason for escalation and requested action
+Named receiving owner and next review date
+7. Penalty and Compliance Consequences
+If NordCare Pflegekasse fails to issue its written decision within the applicable deadline, it must pay the applicant €70 for every started week the deadline is exceeded, continuing until the decision is issued. This penalty does not apply where the delay is not attributable to NordCare Pflegekasse, in which case the deadline is paused until the delay is resolved.
+Legal basis: § 18c Abs. 5 SGB XI.
+8. Roles
+Case Handler: monitors deadline status for assigned cases and triggers Level 1 escalation.
+Zero-Gap Agent: surfaces cases approaching a deadline threshold and flags whether a missing-information request is outstanding.
+Team Lead: owns Level 2 escalations and follow-up on non-responsive applicants.
+Process Owner: owns Level 3 escalations, penalty tracking, and periodic governance review.
+9. Governance
+The Process Owner reviews deadline performance monthly, including cases approaching or exceeding statutory deadlines, penalty payments triggered, and recurring root causes (e.g., systematic delay in issuing missing-information requests).
+10. Legal & Regulatory References
+§ 33 Abs. 1 SGB XI — benefits and the decision process begin upon application (Antragsprinzip).
+§ 18a Abs. 5 und 6 SGB XI — 5- and 10-working-day expedited assessment deadlines.
+§ 18 Abs. 1 SGB XI — 3-working-day Medical Service commissioning deadline.
+§ 18c Abs. 1 SGB XI — standard 25-working-day written decision deadline.
+§ 18c Abs. 5 SGB XI — €70-per-week penalty for missed decision deadlines and conditions for non-attributable delay.
+§ 18c Abs. 6 SGB XI — pause and resume mechanism for missing mandatory documents.
+§ 37 SGB X — rules on notification/delivery (Bekanntgabe) of written or electronic decisions.
+Illustrative / fictitious document prepared for internal demonstration purposes. NordCare Pflegekasse is a fictitious insurer. Not an approved operational policy.

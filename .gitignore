@@ -1,0 +1,6 @@
+secrets/
+.env
+.venv/
+data/zerogap.sqlite
+data/outbox/
+__pycache__/
