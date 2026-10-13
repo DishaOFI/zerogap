@@ -1,25 +1,25 @@
 # Render blueprint – New + → Blueprint → pick this repository.
 # Values marked "sync: false" are asked for when the blueprint is created (secrets never go into Git).
+#
+# FREE plan: no persistent disk and the service sleeps after 15 minutes without visitors. Everything the app stores
+# (cases, letters, outbox, refreshed login tokens in data/) is lost when it sleeps or is redeployed – demo use only.
+# For permanent use: plan: starter, plus
+#     disk: {name: zerogap-data, mountPath: /var/data, sizeGB: 1}
+# and set DATA_DIR=/var/data and the three *_FILE paths below to /var/data/secrets/…
 services:
   - type: web
     name: zerogap
     runtime: docker
-    plan: starter            # a persistent disk needs a paid instance
+    plan: free
     region: frankfurt        # personal data of German insured persons – keep it in the EU
     healthCheckPath: /healthz
-    disk:
-      name: zerogap-data
-      mountPath: /var/data   # zerogap.sqlite, outbox/ and the refreshed login tokens survive deploys
-      sizeGB: 1
     envVars:
-      - key: DATA_DIR
-        value: /var/data
       - key: GOOGLE_CLIENT_FILE
-        value: /var/data/secrets/google_client.json
+        value: /app/data/secrets/google_client.json
       - key: GOOGLE_TOKEN_FILE
-        value: /var/data/secrets/google_token.json
+        value: /app/data/secrets/google_token.json
       - key: ARIS_TOKEN_FILE
-        value: /var/data/secrets/aris_oauth.json
+        value: /app/data/secrets/aris_oauth.json
       - key: BASE_URL                # e.g. https://zerogap.onrender.com (your service URL, no trailing slash)
         sync: false
       - key: BASIC_AUTH_USER
